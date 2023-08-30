@@ -1,6 +1,0 @@
-[submodule "Assets/Scripts/SubmoduleA"]
-	path = Assets/Scripts/SubmoduleA
-	url = https://github.com/camerongibbs85/SubmoduleA.git
-[submodule "Assets/Scripts/SubmoduleB"]
-	path = Assets/Scripts/SubmoduleB
-	url = https://github.com/camerongibbs85/SubmoduleB.git
